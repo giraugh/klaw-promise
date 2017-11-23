@@ -1,6 +1,6 @@
 {
   "name": "klaw-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "'Klaw' wrapped with promises",
   "main": "index.js",
   "repository": "https://github.com/retroverse/klaw-promise.git",
